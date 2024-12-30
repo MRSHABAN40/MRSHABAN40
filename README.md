@@ -1,42 +1,43 @@
-# Hi there, I'm MRSHABAN40 👋
+<h1 align="center">HI DEAR WELCOME I'M MRSHABAN⁴³²</h1>
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM PAKISTAN 🇵🇰</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshaban40&label=Profile%20views&color=0e75b6&style=flat" alt="mrshaban40" /> </p>
 
-I'm a passionate developer with interests in web development, machine learning, and open source. I enjoy solving problems and building projects that can make a difference.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshaban40" alt="mrshaban40" /></a> </p>
 
-- 💻 Currently working on **[ProjectName](https://github.com/MRSHABAN40/ProjectName)**
-- 🌱 Currently learning **React**, **Node.js**, and **Python**
-- 👯 Looking to collaborate on open source projects
-- 🤔 Looking for help with advanced **machine learning** techniques
-- 💬 Ask me about **JavaScript**, **Python**, or **anything tech-related**
-- 📫 How to reach me: [myemail@example.com](mailto:myemail@example.com)
-- 📝 Check out my [blog](https://myblog.com) for articles and tutorials
+<p align="left"> <a href="https://twitter.com/mrshaban40" target="blank"><img src="https://img.shields.io/twitter/follow/mrshaban40?logo=twitter&style=for-the-badge" alt="Mrshaban40" /></a> </p>
 
-## Skills
+- 🔭 I’M CURRENTLY WORKING ON [SHABAN-SOBX-MD ♥️](https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks**: React, Node.js, Express
-- **Tools**: Git, Docker, VSCode
-- **Databases**: MongoDB, MySQL
+- 🌱 I’M CURRENTLY LEARNING **JAVA SCRIPT, C++, HTML, PYTHON, ETC**
 
-## Projects
+- 👯 I’M LOOKING TO COLLABORATE ON [SHABAN-SOBX-MD-V2](https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
-Here are a few projects I've worked on:
+- 🤝 I’M LOOKING FOR HELP WITH [SHABAN-SOBX-MD](https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
-### [ProjectName](https://github.com/MRSHABAN40/ProjectName)
-Description of the project, what it does, and why it's useful.
+- 👨‍💻 ALL OF MY PROJECTS ARE AVAILABLE AT [https://github.com/MRSHABAN40](https://github.com/MRSHABAN40)
 
-### [AnotherProject](https://github.com/MRSHABAN40/AnotherProject)
-Description of this project and its significance.
+- 📝 I REGULARLY WRITE ARTICLES ON [https://github.com/MRSHABAN40/SHABAN-SOBX-MD](https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
-## GitHub Stats
+- 💬 ASK ME ABOUT **😊♥️👑**
 
-![MRSHABAN40's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRSHABAN40&show_icons=true&theme=radical)
+- 📫 HOW TO REACH ME **shabansahibzada859@gmail.com**
 
-## Connect with Me
+- 📄 KNOW ABOUT MY EXPERIENCES [https://github.com/MRSHABAN40/SHABAN-SOBX-MD](https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
 
-- [LinkedIn](https://www.linkedin.com/in/MRSHABAN40)
-- [Twitter](https://twitter.com/MRSHABAN40)
-- [Dev.to](https://dev.to/MRSHABAN40)
+- ⚡ FUN FACT **I THINK I'M FUNNY 😂♥️😜**
 
-Thanks for visiting my profile!
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/MRSHABAN40"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MRSHABAN" /></a><a href="https://ko-fi.com/The_mrshaban432"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="The_mrshaban432" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshaban40&show_icons=true&locale=en&layout=compact" alt="mrshaban40" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshaban40&show_icons=true&locale=en" alt="mrshaban40" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshaban40&" alt="mrshaban40" /></p>
+
+--------------
